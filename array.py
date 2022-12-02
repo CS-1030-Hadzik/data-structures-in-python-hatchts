@@ -58,7 +58,7 @@ print(array_string + str(my_array_length))
 
 # car --> singular -- one element
 
-
+cars.append('Kia')
 print('===================================================================================')
 element = 1
 for car in cars:
