@@ -60,6 +60,8 @@ print(array_string + str(my_array_length))
 
 
 print('===================================================================================')
+element = 1
 for car in cars:
-    print(car)
+    print(element, car)
+    element += 1
 
