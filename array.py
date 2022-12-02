@@ -37,5 +37,10 @@ cars.sort
 # problem 13. print the array to the console`
 print(cars)
 
+# 
+cars.sort(reverse=True)
+
+#
+print(cars)
 
 
